@@ -1,0 +1,21 @@
+@import url(config.css);
+@import url(fonts.css);
+
+body {
+    background-color: var(--bkg-color);
+    color: var(--txt-color);
+    font-family: basiic;
+    max-width: 30vw;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-family: Cherish !important;
+    font-size: var(--header-size);
+    line-height: 10px;
+}
+
+a {
+    color: var(--links-color);
+}
